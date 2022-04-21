@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11214" started-at="2022-04-19T16:28:25Z" finished-at="2022-04-19T16:28:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11214" started-at="2022-04-19T16:28:25Z" finished-at="2022-04-19T16:28:36Z">
+      <class name="test.testng.works.AdactinTestNG">
+        <test-method status="PASS" signature="browserConfLaunch()[pri:0, instance:test.testng.works.AdactinTestNG@185d8b6]" name="browserConfLaunch" is-config="true" duration-ms="9973" started-at="2022-04-19T16:28:25Z" finished-at="2022-04-19T16:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserConfLaunch -->
+        <test-method status="PASS" signature="closingBrowser()[pri:0, instance:test.testng.works.AdactinTestNG@185d8b6]" name="closingBrowser" is-config="true" duration-ms="1194" started-at="2022-04-19T16:28:35Z" finished-at="2022-04-19T16:28:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- test.testng.works.AdactinTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
