@@ -4,6 +4,7 @@ import java.io.IOException;
 import org.pom.example.BaseClass;
 public class AdactinHotelBooking {
 	public static void main(String[] args) throws IOException {
+		//Obj creation for BaseClass
 		BaseClass b=new BaseClass();
 		BaseClass.browserConfigChrome();
 		BaseClass.impWait(30);
